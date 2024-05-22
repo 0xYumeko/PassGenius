@@ -4,6 +4,11 @@
 <h1>A tool to generate strong, random passwords
 ATTGS,RP</h1>
 
+install script git :
+```
+git clone https://github.com/0x3f3c/PassGenius.git
+```
+
 
 Save this script as PassGenius.sh and make it executable:
 ```
