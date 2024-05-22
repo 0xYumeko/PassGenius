@@ -7,7 +7,9 @@ install script git :
 ```
 git clone https://github.com/0x3f3c/PassGenius.git
 ```
-
+```
+cd PassGenius
+```
 
 Save this script as PassGenius.sh and make it executable:
 ```
