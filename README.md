@@ -9,3 +9,7 @@ Save this script as PassGenius.sh and make it executable:
 ```
 chmod +x PassGenius.sh
 ```
+Run it using:
+```
+./PassGenius.sh
+```
