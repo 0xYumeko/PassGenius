@@ -19,3 +19,6 @@ Run it using:
 ```
 ./PassGenius.sh
 ```
+```
+./PassGenius.sh  > pass.txt
+```
