@@ -4,6 +4,8 @@
 <h1>A tool to generate strong, random passwords
 ATTGS,RP</h1>
 
-```
+
 Save this script as PassGenius.sh and make it executable:
+```
+chmod +x PassGenius.sh
 ```
