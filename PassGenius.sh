@@ -14,14 +14,14 @@ cat << "EOF"
  ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓██████▓▒░  
  ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ 
  ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ 
- ░▒▓████████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░ 
+ ░▒▓████████▓▒░ ░▒▓█▓▒░░▒▓█▓▒░  @Helltakerc3rb
 EOF
 echo -e "\033[0m"  
 
 
-read -p "dkhl ra9m ? :  " l
-read -p "3awd dkhl  ?  : " s
-read -p "srbi  ? : " n
+read -p "How many letters would you like in your passowrd :  " l
+read -p "How many symbols would you like  : " s
+read -p "How many numbers would you like : " n
 
 
 choice1=$(echo "$letters" | fold -w1 | shuf | head -n $l | tr -d '\n')
